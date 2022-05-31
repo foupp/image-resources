@@ -1,7 +1,7 @@
 <div align="center">
   <br />
   <p>
-    <img src="https://discord.js.org/static/logo.svg" width="546" alt="Image Resources Logo" />
+    <img src="https://raw.githubusercontent.com/foupp/image-resources/main/resources/README/logo.gif" width="546" alt="Image Resources Logo" />
   </p>
   <br />
 </div>
